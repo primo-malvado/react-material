@@ -1,6 +1,6 @@
 {
   "name": "@ruicostafajozes/button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Made with create-react-library",
   "author": "primo-malvado",
   "license": "MIT",
@@ -61,7 +61,7 @@
     "dist"
   ],
   "dependencies": {
-    "@ruicostafajozes/typography": "^1.0.0",
+    "@ruicostafajozes/typography": "^1.0.1",
     "classnames": "^2.3.1",
     "sass": "^1.49.8"
   }

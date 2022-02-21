@@ -1,12 +1,10 @@
 {
   "name": "@ruicostafajozes/typography",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Made with create-react-library",
   "author": "primo-malvado",
   "license": "MIT",
   "repository": "primo-malvado/@ruicostafajozes/button",
- 
- 
   "main": "_typography.scss",
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
@@ -20,7 +18,6 @@
     "predeploy": "cd example && yarn install && yarn run build",
     "deploy": "gh-pages -d example/build"
   },
- 
   "files": [
     "dist"
   ]
