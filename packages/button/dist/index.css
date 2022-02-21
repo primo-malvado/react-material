@@ -24,6 +24,7 @@
   border: 0;
   gap: 8px;
 }
+
 ._styles-module__button__3wODo._styles-module__outlined__2_0cL {
   border-color: var(--theme-primary);
   border-style: solid;
@@ -41,7 +42,7 @@
   position: absolute;
   opacity: 0;
   pointer-events: none;
-  content: "";
+  content: '';
   width: 200%;
   height: 200%;
   top: -50%;
